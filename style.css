@@ -1,0 +1,9 @@
+body {
+  font-family: 'Roboto' sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-image: radial-gradient(circle at center, #c9ffc9 0%, #00bfff 100%);
+}
+
+
